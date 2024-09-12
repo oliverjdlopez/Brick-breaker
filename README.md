@@ -1,3 +1,5 @@
-This is a built version of a brick-breaker replica that I made for my computer graphics class. If you host the folder you can play a classic 2000s game right in your browser!
+This is a remake of brick-breaker, the old (and at least for me, nostalgic) phone game,
 
-Notable features of the game include keyboard controls, configurable app state, collision detection, and real-time updates. Unfortunately, I cannot post the entire source code because I used a library which is not yet public (written by my professor Abe Davis).
+Notable features of the game include keyboard controls, configurable app state, collision detection, and real-time updates. Unfortunately, I can only post the built version and not the source because I used a library which is not yet public (written by my professor Abe Davis).
+
+Please feel free to try it out! It's hosted at https://oliverjdlopez.github.io/Brick-breaker/build/index.html
